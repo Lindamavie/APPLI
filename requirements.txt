@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+Pillow
+piexif
+numpy
+opencv-python
+torch
+torchvision
+deepface
+gunicorn
